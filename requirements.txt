@@ -6,7 +6,7 @@ Flask-CKEditor==0.4.3
 Flask-MySQLdb==0.2.0
 Flask-WTF==0.14.2
 gunicorn==19.9.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 mysql==0.0.2
 mysql-connector==2.2.9
 mysql-connector-python==8.0.16
